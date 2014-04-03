@@ -18,10 +18,10 @@
     </properties>
 
     <modules>
-        <module>karafcxfcamel.service.impl</module>
-        <module>karafcxfcamel.kar</module>
-        <module>karafcxfcamel.rest</module>
         <module>karafcxfcamel.model</module>
+        <module>karafcxfcamel.service.impl</module>
+        <module>karafcxfcamel.rest</module>
+        <module>karafcxfcamel.kar</module>
     </modules>
 
 
